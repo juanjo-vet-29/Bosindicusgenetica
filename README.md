@@ -9,7 +9,7 @@
 Plataforma de alta especialización zootécnica y médico-veterinaria orientada al **mejoramiento genético**, la **fisiología reproductiva** y las **biotecnologías avanzadas** (IATF, OPU-FIV) en ganado cebuino (*Bos indicus*).
 
 ---
-# Enlace a la landing page: [https://juanjo-vet-29.github.io/Bosindicusgenetica/
+# Enlace a la landing page: http://127.0.0.1:5500/#simulador
 ## 📌 Características Principales](http://127.0.0.1:5500/#simulador)
 
 - 🎨 **Paleta de Colores Inspirada en *Bos indicus***:
